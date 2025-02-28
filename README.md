@@ -7,4 +7,3 @@ This repository contains a simple *about me* webpage built using HTML. It was cr
 - Personal introduction
 
 ## Live preview link
--https://tasniatamannaweb.github.io/about-me/
