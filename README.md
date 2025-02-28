@@ -1,2 +1,7 @@
-# about-me
-A simple HTML page to introduce myself. (Will be improved in the future; currently built with the basics I've learned while practicing.)
+# about Me
+
+This repository contains a simple *about me* webpage built using HTML. It was created to introduce myself and serves as a practice project. Currently, I am learning and practicing, so I've built it with the knowledge I have acquired so far. Future improvements are planned.
+
+## Features
+- Basic HTML structure
+- Personal introduction
